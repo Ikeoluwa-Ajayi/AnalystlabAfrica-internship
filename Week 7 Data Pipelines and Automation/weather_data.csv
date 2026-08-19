@@ -1,0 +1,4 @@
+City,Temperature_C,Humidity_%,Weather_Condition,Wind_Speed_ms,DateTime
+Lagos,26.22,80,overcast clouds,2.71,2026-08-18 14:40:51
+London,25.29,57,overcast clouds,4.63,2026-08-18 14:35:27
+New York,23.89,91,broken clouds,2.24,2026-08-18 14:39:39
